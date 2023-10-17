@@ -30,3 +30,4 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 "# group10pro" 
 "# group10pro" 
 "# group10pro" 
+"# group10pro" 
